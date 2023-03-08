@@ -3,4 +3,5 @@ pandas
 matplotlib
 numpy
 plotly
+scipy 
 openai
